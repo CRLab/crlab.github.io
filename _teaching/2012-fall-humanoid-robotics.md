@@ -1,7 +1,7 @@
 ---
 title: "COMS W6998-2 Humanoid Robots"
 collection: teaching
-type: "Graduate course"
+type: "Fall Graduate course"
 permalink: /teaching/2012-spring-humanoid-robotics
 venue: "Columbia University, Computer Science"
 date: 2012-09-01

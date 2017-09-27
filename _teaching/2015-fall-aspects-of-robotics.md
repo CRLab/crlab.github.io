@@ -1,7 +1,7 @@
 ---
 title: "COMS W4733, Computational Aspects of Robotics"
 collection: teaching
-type: "Undergraduate course"
+type: "Fall Undergraduate course"
 permalink: /teaching/2015-fall-aspects-of-robotics
 venue: "Columbia University, Computer Science"
 date: 2015-09-01

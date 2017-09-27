@@ -1,7 +1,7 @@
 ---
 title: "COMS 6731 Humanoid Robots"
 collection: teaching
-type: "Graduate course"
+type: "Spring Graduate course"
 permalink: /teaching/2015-spring-humanoid-robotics
 venue: "Columbia University, Computer Science"
 date: 2015-01-20

@@ -1,7 +1,7 @@
 ---
 title: "COMS W3137, Data Structures and Algorithms (Honors)"
 collection: teaching
-type: "Undergraduate course"
+type: "Spring Undergraduate course"
 permalink: /teaching/2014-spring-data-structures-and-algorithms
 venue: "Columbia University, Computer Science"
 date: 2014-01-20

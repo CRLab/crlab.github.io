@@ -1,7 +1,7 @@
 ---
 title: "COMS E6733, 3D Photography"
 collection: teaching
-type: "Graduate course"
+type: "Spring Graduate course"
 permalink: /teaching/2010-spring-3d-photography
 venue: "Columbia University, Computer Science"
 date: 2010-01-20
