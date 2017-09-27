@@ -1,0 +1,26 @@
+# Authors
+
+David Watkins:
+  name        : "David Watkins"
+  uri         : "http://davidwa.tkins.me"
+  email       : "davidwatkins@cs.columbia.edu"
+  bio         : "Ph.D. Researcher at Columbia University"
+  avatar      : "profile.jpg"
+  twitter     : "davidw_me"
+  google_plus : ""
+
+Lame Drapes:
+  name        : "Lame Drapes"
+  uri         : "http://lame.drapes.com"
+  email       : "lamedrapes@cs.columbia.edu"
+  bio         : "Lame Drapes Researcher at Columbia University"
+  avatar      : "bio-photo.jpg"
+  twitter     : "davidw_me"
+  google_plus : ""
+
+Peter Allen:
+  name        : "Peter Allen"
+  uri         : "http://www.cs.columbia.edu/~allen/.index.html"
+  email       : "allen@cs.columbia.edu"
+  bio         : "Professor of Computer Science at Columbia University"
+  avatar      : "profiles/peterallen.jpg"
