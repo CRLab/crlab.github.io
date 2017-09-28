@@ -1,0 +1,13 @@
+---
+title: 'Jake Varley awarded NSF EAPSI scholarship to study in Korea'
+date: 2014-05-29
+permalink: /posts/2014/05/jake-varley-korea/
+tags:
+---
+
+## Abstract
+Often the first attempt to grasp an object is not successful and the hand must be adjusted based on information gathered with that initial contact. The regrasping is easier once information is available on where on the hand contact occurred. The purpose of this project is to build a robust grasping system for humanoid robots in collaboration with one of the pre-eminent robotics labs in the world, Dr. JunHo-Oh's Hubo Lab at the Korea Advanced Institute of Science and Technology. The main area of research in this project is to build a Tactile Experience Database enabling a robot with tactile sensors to leverage past experience to better incorporate current tactile sensory information into grasp planning. The database will enable the robot to use prior touch experience alongside current tactile information to better manipulate an object. For the purposes of this research, the tactile sensors will provide the sense of touch, and the Tactile Experience Database will provide the past experience. This tactile experience will allow for the creation of new robotic learning algorithms that the humanoid can use to identify and recreate previously learned grasps.
+
+In addition, this tactile information will allow for novel regrasp algorithms. This research will allow relating the current sensor readings to the expected sensor readings and adjusting the hand based off of the difference between them. These new sensors will provide accurate information at a critical time allowing for more complicated grasping algorithms. The new sensors will also allow for new manipulation strategies. For example, a robot could make a careful exploratory contact, and then quickly shift its goal from a careful first contact to a stable grasp of the object. This NSF EAPSI award is funded in collaboration with the National Research Foundation of Korea. 
+
+Link to award [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1414637)

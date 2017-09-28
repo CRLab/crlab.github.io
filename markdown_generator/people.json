@@ -1,0 +1,41 @@
+{
+  "people": [
+    {
+		"key"              : "David Watkins",
+		"name"             : "David J. Watkins",
+		"avatar"           : "profiles/profile.jpg",
+		"bio"              : "Ph.D. Researcher at the Columbia University Robotics Lab",
+		"description"      : "Ph.D. Researcher at the Columbia University Robotics Lab",
+		"location"         : "New York, NY",
+		"employer"         : "Columbia University",
+		"googlescholar"    :,
+		"email"            : "davidwatkins@cs.columbia.edu",
+		"uri"              :,
+		"bitbucket"        :,
+		"codepen"          :,
+		"dribbble"         :,
+		"flickr"           :,
+		"facebook"         : "Davidwme",
+		"foursquare"       :,
+		"github"           : "davidwatkins",
+		"google_plus"      :,
+		"keybase"          :,
+		"instagram"        :,
+		"lastfm"           :,
+		"linkedin"         : "davidwatkinsj",
+		"orcid"            : "http://orcid.org/0000-0003-0786-5798",
+		"pinterest"        :,
+		"soundcloud"       :,
+		"stackoverflow"    :,
+		"steam"            :,
+		"tumblr"           :,
+		"twitter"          : "davidw_me",
+		"vine"             :,
+		"weibo"            :,
+		"xing"             :,
+		"youtube"          :,
+		"wikipedia"        :,
+    }
+
+  ]
+}

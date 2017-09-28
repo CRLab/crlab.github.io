@@ -10,23 +10,19 @@
 
 # ## Data format
 # 
-# The TSV needs to have the following columns: pub_date, title, venue, excerpt, citation, site_url, and paper_url, with a header at the top. 
+# The JSON file needs to have the following keys: pub_date, title, venue, excerpt, citation, site_url, and paper_url, with a header at the top. 
 # 
 # - `excerpt` and `paper_url` can be blank, but the others must have values. 
 # - `pub_date` must be formatted as YYYY-MM-DD.
 # - `url_slug` will be the descriptive part of the .md file and the permalink URL for the page about the paper. The .md file will be `YYYY-MM-DD-[url_slug].md` and the permalink will be `https://[yourdomain]/publications/YYYY-MM-DD-[url_slug]`
 
 
-# ## Import pandas
-# 
-# We are using the very handy pandas library for dataframes.
-
 # In[2]:
 
-import pandas as pd
+import json
 
 
-# ## Import TSV
+# ## Import json file
 # 
 # Pandas makes this easy with the read_csv function. We are using a TSV, so we specify the separator as a tab, or `\t`.
 # 
@@ -34,9 +30,8 @@ import pandas as pd
 
 # In[3]:
 
-publications = pd.read_csv("publications.tsv", sep="\t", header=0)
-publications
-
+with open('publications.json') as data_file:
+    publications = json.load(data_file)
 
 # ## Escape special characters
 # 

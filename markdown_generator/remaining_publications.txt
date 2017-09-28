@@ -1,0 +1,197 @@
+ Jorge Guerra, Jasim Uddin, Dawn Nilsen, James Mclnerney, Ammarah Fadoo, Isirame B. Omofuma, Shatif Hughes, Sunil Agrawal, Peter Allen, and Heidi M. Schambra. Capture, Learning, and Classification of Upper Extremity Movement Primitives in Healthy Controls and Stroke Patients, Int. Conf. on Rehabilitation Research (ICORR), July 2017, London.
+
+Jonathan Weisz, Peter K Allen, Alexander G Barszap, Sanjay S Joshi. Assistive Grasping with an Augmented Reality User Interface, Interntational Journal of Robotics Research, 2017.
+
+Yinxiao Li, Xiuhan Hu, Danfei Xu, Yonghao Yue, Eitan Grinspun, and Peter Allen, Multi-Sensor Surface Analysis For Robotic Ironing, IEEE International Conference on Robotics and Automation (ICRA), Stockholm, May 2016.
+
+Jonathan Weisz, Yipeng Huang, Florian Lier, Simha Sethumadhavan, and Peter Allen. RoboBench: Towards Sustainable Robotics System Benchmarking, IEEE International Conference on Robotics and Automation (ICRA), Stockholm, May 2016.
+
+Jiongxin Liu, Yinxiao Li, Peter Allen, and Peter Belhumeur. Articulated Pose Estimation Using Hierarchical Exemplar-based Models , 30th AAAI Conference on Artificial Intelligence (AAAI), Phoenix, Feb. 2016.
+
+Jacob Varley, Jonathan Weisz, Jared Weiss, and Peter Allen. Generating Multi-Fingered Robotic Grasps via Deep Learning IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2015, Hamburg.
+
+Yinxiao Li, Y. Yue, Danfei Xu, Eitan Grinspun, Peter K. Allen. Folding Deformable Objects using Predictive Simulation and Trajectory Optimization IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2015, Hamburg. Video
+
+Robert Ying and Jonathan Weisz and Peter K. Allen. Grasping with your brain: a brain-computer interface for fast grasp selection International Symposium on Robotics Research (ISRR), September 12 to 15, 2015, Sestri Levante, Italy
+
+Yinxiao Li, D. Xu, Yonghao Yue, Yan Wang, S-F Chang, E. Grinspun, and P. K. Allen. Regrasping and Unfolding of Garments Using Predictive Thin Shell Modeling Video , IEEE International Conference on Robotics and Automation (ICRA), Seattle, May 2015
+
+Jonathan Weisz, Alexander G. Barszap, Sanjay S. Joshi, and Peter K. Allen, Single Muscle Site sEMG Interface for Assistive Grasping, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) September 14-18, 2014. Chicago. Video
+
+Yinxiao Li, Yan Wang, Michael Case, Shih-Fu Chang, Peter K. Allen, Real-time Pose Estimation of Deformable Objects Using a Volumetric Approach, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) September 14-18, 2014. Chicago. Video
+
+Austin Reiter, Alexandros Sigaras, Dennis Fowler and Peter K. Allen, Surgical Structured Light for 3D Minimally Invasive Surgical Imaging, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) September 14-18, 2014. Chicago.
+
+Peter K. Allen, Matei Ciocarlie and Corey Goldfeder, Grasp Planning Using Low Dimensional Subspaces, in The Human Hand as an Inspiration for Robot Hand Development, pp. 531- 564, Springer Tracts in Advanced Robotics, Vol. 95, Balasubramanian, Ravi, Santos, Veronica J. (Eds.)
+
+Yinxiao Li, Chih-Fan Chen, and Peter K. Allen Recognition of Deformable Object Category and Pose, IEEE Int. Conf. on Robotics and Automation(ICRA). Hong Kong, June 2014.
+
+Hao Dang and Peter K. Allen, Semantic grasping: planning task-specific stable robotic grasps,Autonomous Robots, October 2014, Volume 37, Issue 3, pp 301-316.
+
+Youngbum Jun, Jonathan Weisz, Christopher Rasmussen, Peter Allen and Paul Oh,Real-Time Teleop with Non-Prehensile Manipulation, IEEE International Conference on Technologies for Practical Robot Applications (TePRA), April 14 -15, 2014
+
+Austin Reiter, Peter K Allen and Tao Zhao, Appearance learning for 3D tracking of robotic surgical tools, The International Journal of Robotics Research November, 2013.
+
+Jonathan Weisz, Carmine Elvezio, and Peter K. Allen, A User Interface for Assistive Grasping, IEEE/RSJ International Conference on Robots and Systems (IROS), Nov. 2013. Tokyo
+
+Hao Dang and Peter K. Allen, Grasp Adjustment on Novel Objects Using Tactile Experience from Similar Local Geometry, IEEE/RSJ International Conference on Intelligent Robots and Systems, Nov. 2013, Tokyo
+
+Hao Dang and Peter K. Allen, Stable grasping under pose uncertainty using tactile feedback, Autonomous Robots, April 2014, Volume 36, Issue 4, pp 309-330.
+
+N Simaan, A Bajo, A Reiter, L Wang, P Allen, D. Fowler, Lessons learned using the insertable robotic effector platform (IREP) for single port access surgery, J. Robotic Surgery, April 2013.
+
+Hao Dang, Yongbum Jun, Paul Oh and Peter K. Allen, Planning Complex Physical Tasks for Disaster Response with a Humanoid Robot, IEEE International Conference on Technologies for Practical Robot Applications (TePRA), April 22 - 23, 2013
+
+Hao Dang and Peter K.Allen, Semantic Grasping: Planning Robotic Grasps Functionally Suitable for An Object Manipulation Task, 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems October 7-12, 2012. Vilamoura, Algarve, Portugal
+
+Austin Reiter, Peter K. Allen and Tao Zhao, Feature Classification for Tracking Articulated Surgical Tools, MICCAI 2012, Part II, LNCS 7511, pp. 592600.
+
+Ding, J.; Goldman, R. E.; Xu, K.; Allen, P. K.; Fowler, D. L.; Simaan, N.; Design and Coordination Kinematics of an Insertable Robotic Effectors Platform for Single-Port Access Surgery, Mechatronics, IEEE/ASME Transactions on , vol.PP, no.99, pp.1-13, 0
+
+Weisz, J., Shababo, B., Dong, L. and Allen, P., Grasping with Your Face, 13th International Symposium on Experimental Robotics (ISER) June 17-21, 2012.
+
+Reiter, A., Allen, P.K., Zhao, T. Learning Features on Robotic Surgical Tools, Workshop on Medical Computer Vision, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 16-21, 2012, Providence, Rhode Island
+
+Reiter, A., Bajo, A., Iliopoulos, K., Simaan, N., and Allen, P.K., Learning-Based Configuration Estimation of a Multi-Segment Continuum Robot, IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob), June 24-27, 2012, Rome, Italy
+
+Reiter, A., Allen, P. K., and Zhao, T. Articulated Surgical Tool Detection Using Virtually-Rendered Templates, Computer Assisted Radiology and Surgery (CARS), June 27-30, 2012, Pisa, Italy
+
+Jonathan Weisz and Peter K. Allen, Pose Error Robust Grasping from Contact Wrench Space Metrics, 2012 IEEE International Conference on Robotics and Automation, pp. 557 - 562.
+
+Hao Dang and Peter K. Allen, Learning Grasp Stability, 2012 IEEE International Conference on Robotics and Automation, pp. 2392 - 2397.
+
+Frank L. Hammond III, Jonathan Weisz, Andrés A. de la Llera Kurth, Peter K. Allen,and Robert D. Howe, Towards a Design Optimization Method for Reducing the Mechanical Complexity of Underactuated Robotic Hands 2012 IEEE International Conference on Robotics and Automation, pp. 2843 - 2848.
+
+Long Wang, Joseph DelPreto, Sam Bhattacharyya, Jonathan Weisz, Peter K. Allen, A highly-underactuated robotic hand with force and joint angle sensors, 2011 IEEE/RSJ International Conference on Intelligent Robots and Systems, Sep. 26-29, 2011, San Francisco.
+
+Austin Reiter, Roger E. Goldman, Andrea Bajo, Konstantinos Iliopoulos, Nabil Simaan, and Peter K. Allen, A Learning Algorithm for Visual Pose Estimation of Continuum Robots, 2011 IEEE/RSJ International Conference on Intelligent Robots and Systems, Sep. 26-29, 2011, San Francisco.
+
+Corey Goldfeder and Peter K. Allen, Data Driven Grasping, Autonomous Robots, April 2011, pp. 1-20.
+
+Hao Dang, Jon Weisz and Peter K. Allen, Blind Grasping: Stable Robotic Grasping Using Tactile Feedback and Hand Kinematics, ICRA 2011, Shanghai.
+
+Matei Ciocarlie and Peter K. Allen A constrained optimization framework for compliant underactuated grasping Mechanical Sciences 2, 17-26, 2011. (orig. appeared in Proceedings of the 1st International Workshop on Underactuated Grasping, UG2010 August 19, 2010, Montreal, Quebec, Canada). Video
+
+Austin Reiter and Peter K. Allen, An Online Learning Approach To In-Vivo Tracking Using Synergistic Features, 2010 IEEE/RSJ International Conference on Intelligent Robots and Systems October 18-22, 2010, Taipei, Taiwan
+
+Hao Dang and Peter K. Allen, Robot Learning of Everyday Object Manipulations via Human Demonstration, 2010 IEEE/RSJ International Conference on Intelligent Robots and Systems October 18-22, 2010, Taipei, Taiwan
+
+Matei Ciocarlie and Peter Allen, Data-driven Optimization for Underactuated Robotic Hands, 2010 IEEE International Conference on Robotics and Automation, Anchorage, pp. 1292-1299.
+
+Jienan Ding, Kai Xu, Roger Goldman, Peter Allen, Dennis Fowler, Nabil Simaan, Design, Simulation and Evaluation of Kinematic Alternatives for Insertable Robotic Effectors Platforms in Single Port Access Surgery, ICRA 2010, Anchorage.
+
+Paul S. Blaer and Peter K. Allen, View planning and automated data acquisition for three-dimensional modeling of complex sites, Journal of Field Robotics, Volume 26 Issue 11-12 (November - December 2009).
+
+Corey Goldfeder, Matei Ciocarlie, Jaime Peretzman, Hao Dang and Peter K. Allen, Data-Driven Grasping with Partial Sensor Data, IEEE/RSJ International Conference on Intelligent Robots and Systems, October 11-15, 2009 St. Louis, pp. 1278-1284.
+
+Matei Ciocarlie and Peter Allen, Design and Analysis Tool for Underactuated Compliant Hands , IEEE/RSJ International Conference on Intelligent Robots and Systems, October 11-15, 2009 St. Louis, pp. 5234-5239.
+
+Kai Xu, Roger E. Goldman, Jienan Ding, Peter K. Allen, Dennis L. Fowler and Nabil Simaan, System Design of an Insertable Robotic Effector Platform for Single Port Access (SPA) Surgery , IEEE/RSJ International Conference on Intelligent Robots and Systems, October 11-15, 2009 St. Louis, pp. 5546-5552.
+
+Matei Ciocarlie and Peter K. Allen, Hand Posture Subspaces for Dexterous Robotic Grasping, The International Journal of Robotics Research, Jul 2009; vol. 28: pp. 851 - 867. Video
+
+Tie Hu, Peter K. Allen, Nancy Hogle and Dennis Fowler Insertable Surgical Imaging Device with Pan, Tilt, Zoom, and Lighting, International Journal of Robotics Research, Vol. 28, No. 10, 1373-1386 (2009).
+
+Corey Goldfeder, Matei Ciocarlie, Hao Dang and Peter K. Allen, The Columbia Grasp Database, ICRA 2009, Kobe.
+
+Matei Ciocarlie, Hao Dang, Jamie Lukos, Marco Santello, Peter Allen, Functional Analysis of Finger Contact Locations during Grasping Third Joint EUROHAPTICS Conference and symposium on haptic interfaces for virtual environment and teleoperator systems, March 18-20, 2009, Salt Lake City.
+
+Tie Hu, Peter K. Allen, Tejas Nadkarni, Nancy J. Hogle and Dennis L. Fowler, Insertable Stereoscopic 3D Surgical Imaging Device with Pan and Tilt, Proc. IEEE BIOROB, Oct. 20, 2008.
+
+Matei T. Ciocarlie, Samuel T. Clanton, M. Chance Spalding, and Peter K. Allen, Biomimetic Grasp Planning for Cortical Control of a Robotic Hand, IROS 2008, Nice, Sep. 23-26, 2008.
+
+Atanas Georgiev and Peter Allen, Two-Stage Robotic Crystal Mounting of Protein Crystals for X-Ray Data Collection, IEEE Conference on Automation Science and Engineeeering (CASE), Aug. 2008.
+
+Corey Goldfeder and Peter Allen, Autotagging to Improve Text Search for 3D Models, Joint Conference on Digital Libraries, June 2008, Pittsburgh
+
+Matei T. Ciocarlie and Peter K. Allen, On-Line Interactive Dexterous Grasping, Eurohaptics 2008, Madrid, June 10-13, 2008. Video
+
+Corey Goldfeder, Haoyun Feng, and Peter Allen Training Set Expansion via Autotags, IEEE International Conference on Shape Modeling and Applications (SMI-SHREC), June 4-6 2008.
+
+Tie Hu, Peter K. Allen, Nancy J. Hogle and Dennis L. Fowler, Insertable Surgical Imaging Device with Pan, Tilt, Zoom, and Lighting, IEEE Int. Conference on Robotics and Automation, May 23, 2008, Pasadena.
+
+Alejandro Troccoli and Peter K. Allen, Building illumination coherent 3D models of large-scale outdoor scenes, International Journal of Computer Vision (IJCV), Volume 78, Numbers 2-3 / July, 2008, p. 261-280. Videos
+
+Matei Ciocarlie, Corey Goldfeder and Peter Allen, Dimensionality reduction for hand-independent dexterous robotic grasping, IROS 2007, San Diego, Oct. 29- Nov. 2
+
+Paul S. Blaer and Peter K. Allen, Data Acquisition and View Planning for 3-D Modeling Tasks, IROS 2007, San Diego, Oct. 29- Nov. 2
+
+Tie Hu, Peter K. Allen and Dennis L. Fowler, In-Vivo Pan/Tilt Endoscope with Integrated Light Source, IROS 2007, San Diego, Oct. 29- Nov. 2
+
+Corey Goldfeder, Peter K. Allen, Claire Lackner, Raphael Pelossof, Grasp Planning via Decomposition Trees, IEEE Int. Conference on Robotics and Automation, April 13, 2007, Rome.
+
+M. Ciocarlie, C. Lackner and P. Allen, Soft finger model with adaptive contact geometry for grasping and manipulation tasks, IEEE Symposium on Haptic Interfaces for Virtual Environment and Teleoperator Systems, Tsukuba, JP, March 19-21, 2007. (Best Student Paper Award)
+
+Alejandro Troccoli and Peter K. Allen, Shadow based texture registration for 3D modeling, Machine Vision and Applications, V. 18, No. 2, April 2007, pp. 65-72.
+
+Atanas Georgiev, Sergey Vorobiev, William Edstrom, Ting Song, Andrew Laine, John Hunt and Peter Allen, Automated streak-seeding with micromachined silicon tools. Acta Cryst. (2006). D62, 1039-1045.
+
+Alejandro Troccoli and Peter Allen, Illumination and texture factorization using ratio images of an object of known geometry. Intl. Symposium on 3D Data Processing, Visualization and Transmission, June 2006.
+
+Paul S. Blaer and Peter K. Allen, Two Stage View Planning for Large-Scale Site Modeling. Intl. Symposium on 3D Data Processing, Visualization and Transmission, June 2006.
+
+Paul Blaer and Peter K. Allen, View Planning for Automated Site Modeling, IEEE Int. Conference on Robotics and Automation, May 2006, Orlando, pp. 2621 - 2626.
+
+Matei Ciocarlie, Andrew Miller, and Peter K. Allen, Grasp Analysis Using Deformable Fingers Int. Conf. Intelligent Robots and Systems (IROS 2005), August 2005, Edmonton.
+
+Alejandro Troccoli and Peter K. Allen, Relighting Acquired Models of Outdoor Scenes 5th International Conference 3-D Digital Imaging and Modeling (3DIM), June 2005, Ottawa.
+
+Atanas Georgiev, Peter K. Allen Ting Song, Andrew Laine, William Edstrom and John Hunt, Microrobotic Streak Seeding for PRotein Crystal Growth Robotics Systems and Science, June 2005.
+
+Andrew Miller, Peter K. Allen, V. Santos, and F. Valero-Cuevas, From Robot Hands to Human Hands: A Visualization and Simulation Engine for Grasping Research, Industrial Robot, V. 32, N. 1, 2005, pp. 55-63.
+
+Andrew Miller and Peter K. Allen, Graspit!: A Versatile Simulator for Robotic Grasping, IEEE Robotics and Automation Magazine, V. 11, No.4, Dec. 2004, pp. 110-122.
+
+Atanas Georgiev,Peter K. Allen and William Edstrom, Visually-Guided Protein Crystal Manipulation Using Micromachined Silicon Tools Int. Conf. Intelligent Robots and Sytems (IROS 2004), Oct. 2004.
+
+Atanas Georgiev and Peter K. Allen, Localization Methods for a Mobile Robot in Urban Environments, IEEE Trans. on Robotics and Automation, V. 20, N. 5, Oct. 2004, pp. 851-864.
+
+P. Allen S. Feiner A. Troccoli H. Benko E. Ishak B. Smith, Seeing into the Past: Creating a 3D Modeling Pipeline for Archaeological Visualization 3D Data Processing, Visualization and Transmission Symposium, Thessalonika, Greece, Sep. 6-9, 2004.
+
+Andrew Miller, Peter K. Allen, V. Santos, and F. Valero-Cuevas, From Robot Hands to Human Hands: A Visualization and Simulation Engine for Grasping Research, International Conference on Intelligent Manipulation and Grasping (IMG04), Genoa, July 1-2, 2004
+
+Alejandro Troccoli and Peter K. Allen, A Shadow Based Method for Image to Model Registration, Second IEEE Workshop on Image and Video Registration (IVR'04), Washington DC, July 2nd, 2004.
+
+Rafael Pelossof, Andrew Miller, Peter Allen and Tony Jebara, An SVM Learning Approach to Robotic Grasping, IEEE Int. Conf. on Robotics and Automation, New Orleans, April 29, 2004, pp. 3512-3518.
+
+Andrew Miller, Peter Allen, and Dennis Fowler, In-Vivo Stereoscopic Imaging System with 5 Degrees-of-Freedom for Minimal Access Surgery, Medicine Meets Virtual Reality Conference (MMVR), Jan. 16, 2004, Newport Beach.
+
+Peter K. Allen, Ioannis Stamos, Alejandro Troccoli, Benjamin Smith, M. Leordeanu and Stephen Murray, New Methods for Digital Modeling of Historic Sites, IEEE Computer Graphics and Applications, Nov/Dec 2003, pp. 32-41.
+
+Atanas Georgiev, Peter Allen and Youcef Mezouar, Microrobotic Crystal Mounting Using Computer Vision, Microrobotics for Biomanipulation Workshop, IROS'03, Las Vegas, NV.
+
+Peter K. Allen, Ioannis Stamos, Alejandro Troccoli, Benjamin Smith, M. Leordeanu and Y C. Hsu, 3D Modeling of Historic Sites using Range and Image Data, ICRA 2003, Sep. 14-19, 2003 Tapei, pp. 145-150.
+
+Paul Blaer and Peter K. Allen, TopBot: Automated Network Topology Detection with a Mobile Robot, ICRA 2003, May 11-16, Tapei.
+
+Andrew T. Miller, Steffen Knoop, Henrik I. Christensen and Peter K. Allen, Automatic Grasp Planning using Shape Primitives, ICRA 2003, Sep. 14-19, 2003, Tapei, pp. 1824-1829.
+
+Ioannis Stamos and Peter Allen, Geometry and Texture Recovery of Scenes of Large Scale Computer Vision and Image Understanding (CVIU), 88, No. 2, Nov. 2002, pp. 94-118.
+
+Georguiev, Atanas and Peter K. Allen Vision for Mobile Robot Localization in Urban Environments, Int. Conf. Intelligent Robots and Sytems (IROS 2002), Lausanne, Switzerland, Oct. 1-3, 2002, pp. 472-477.
+
+Mezouar, Youcef and Peter K. Allen Visual servoed micropositioning for protein manipulation, Int. Conf. Intelligent Robots and Sytems (IROS 2002), Lausanne, Switzerland, Oct. 1-3, 2002, pp. 1766-177.
+
+Blaer, Paul and Peter K. Allen, Topological mobile robot localization using fast vision techniques, IEEE Int. Conference on Robotics and Automation, May 11-15, 2002, Washington.
+
+Reed et. al., U.S. Patent 6,249,600, System and Method for Generation of a Three-Dimensional Solid Model
+
+Stamos, Ioannis and Peter K. Allen, Automatic registration of 2-D with 3-D imagery in urban environments, Int. Conference on Computer Vision (ICCV 2001)", July 9-12, 2001, Vancouver.
+
+Peter Allen, Ioannis Stamos, Atanas Gueorguiev, Ethan Gold and Paul Blaer, AVENUE: Automated Site Modeling in Urban Environments , Third International Conference on 3D Digital Imaging and Modeling, May 28 - June 1, 2001, Quebec City, pp. 357-364.
+
+Danica Kragic, Andrew Miller and Peter K. Allen, Real-time Tracking Meets Online Planning, IEEE Int. Conf. on Robotics and Automation, May 22-28, 2001, Seoul.
+
+Oh, Paul, and Peter K. Allen, Visual Servoing by Partitioning Degrees-of-Freedom, IEEE Trans. on Robotics and Automation, V. 17, N. 1, February 2001, pp. 1-17.
+
+Michael Reed and Peter Allen Constraint-Based Sensor Planning for Scene Modeling, IEEE Trans. on PAMI, Dec. 2000
+
+Oh, Paul and Peter K.Allen, Joint Coupled Compensation Effects in Visually Servoed Tracking, IEEE Int. Conf. on Robotics and Automation, April 24-28, 2000, San Francisco, pages 2094-2099.
+
+Ioannis Stamos and Peter Allen, 3-D Model Construction Using Range and Image Data, CVPR2000.
+
+Gueorguiev A., Allen P., Gold E., and P. Blaer, Design, Architecture, and Control of a Mobile Site Modeling Robot, IEEE Int. Conf. on Robotics and Automation, April 24-28, 2000, San Francisco.
+
+Abrams, Steven and Peter K. Allen, Computing Swept Volumes, Journal of Visualization and Computer Animation, V. 11, 2000, pp. 69-82.
+
+Miller, Andrew T. and Peter K. Allen, GraspIt!: A Versatile Simulator for Grasp Analysis. In Proceedings ASME International Mechanical Engineering Congress & Exposition, Orlando, FL, November 2000.
