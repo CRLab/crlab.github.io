@@ -10,7 +10,7 @@
 			"abstract": "This paper describes a robotic system that builds a 3D CAD model of an object incrementally from multiple range images. It motivates the generation of a solid model at each stage of the modeling process, allowing the use of well-defined geometric algorithms to perform the merging and integration task. The data from each imaging operation is represented by a mesh, which is then extruded in the viewing direction to form a solid model. These solids are merged as they are acquired into a composite model of the object. We describe an algorithm that builds a solid model from a mesh surface and present experimental results of reconstructing a complex object. In addition, we discuss an approach to completely automating the model acquisition process by integration with previous sensor-planning results.",
 			"citation": "M. K. Reed and P. K. Allen, \"A robotic system for 3D model acquisition from multiple range images,\" Proceedings of International Conference on Robotics and Automation, Albuquerque, NM, 1997, pp. 2509-2514 vol.3.",
 			"url_slug": "a-robotic-system-for-3-d-model-acquisition-from-multiple-range-images",
-			"paper_url": "{{ base_url }}/files/a-robotic-system-for-3-d-model-acquisition-from-multiple-range-images.pdf",
+			"paper_url": "/files/a-robotic-system-for-3-d-model-acquisition-from-multiple-range-images.pdf",
 			"location": "Albuquerque, NM, USA",
 			"keywords": "Solid modeling, Robot sensing systems, Process planning, Mobile robots, Robotic assembly, Merging, Robotics and automation, Computer science, Surface reconstruction, Image reconstruction"
 		},
@@ -24,7 +24,7 @@
 			"abstract": "In this paper we present a method for automatically constructing a CAD model of an unknown object from range images. The method is an incremental one that interleaves a sensing operation that acquires and merges information into the model with a planning phase to determine the next sensor position or \"view\". This is accomplished by integrating a system for 3-D model acquisition with a sensor planner. The model acquisition system provides facilities for range image acquisition, solid model construction and model merging: both mesh surface and solid representations are used to build a model of the range data from each view, which is then merged with the model built from previous sensing operations. The planning system utilizes the resulting incomplete model to plan the next sensing operation by finding a sensor viewpoint that will improve the fidelity of the model. Experimental results are presented for a complex part that includes polygonal faces, curved surfaces, and large self-occlusions.",
 			"citation": "Michael Reed, P. Allen, and I. Stamos, 3-D Modeling from Range Imagery: An Incremental Method with a Planning Component, In Proceedings of the International Conference on Advances in 3-D Digital Imaging and Modeling, Ontario, Canada, 1997.",
 			"url_slug": "3-d-modeling-from-range-imagery-an-incremental-method-with-a-planning-component",
-			"paper_url": "{{ base_url }}/files/3-d-modeling-from-range-imagery-an-incremental-method-with-a-planning-component.pdf",
+			"paper_url": "/files/3-d-modeling-from-range-imagery-an-incremental-method-with-a-planning-component.pdf",
 			"location": "Ottawa, Ont., Canada,",
 			"keywords": "Three dimensional displays, Solid modeling, Merging, Image sensors, Sensor systems, Surface reconstruction, Computer science, Layout, Availability, Reconstruction algorithms"
 		},
@@ -38,7 +38,7 @@
 			"abstract": "We present an incremental system that builds accurate CAD models of objects from multiple range images. Using a hybrid of surface mesh and volumetric representations, the system creates a \"water-tight\" 3D model at each step of the modeling process, allowing reasonable models to be built from a small number of views. We also present a method that can be used to plan the next view and reduce the number of scans needed to recover the object. Results are presented for the creation of 3D models of a computer game controller, a hip joint prosthesis, and a mechanical strut.",
 			"citation": "Michael Reed, P. Allen, and I. Stamos, Automated Model Acquisition from Range Images with View Planning, in Proceedings of the 1997 Conference on Computer Vision and Pattern Recognition, Puerto Rico.",
 			"url_slug": "automated-model-acquisition-from-range-images-with-view-planning",
-			"paper_url": "{{ base_url }}/files/automated-model-acquisition-from-range-images-with-view-planning.pdf",
+			"paper_url": "/files/automated-model-acquisition-from-range-images-with-view-planning.pdf",
 			"location": "San Juan, Puerto Rico",
 			"keywords": ""
 		},
@@ -49,10 +49,10 @@
 			"pub_date": "1998-01-01",
 			"venue": "" ,
 			"excerpt": "Recently the use of three-dimensional computer models has greatly increased, in part because of the availability of fast, inexpensive graphics hardware and technologies such as VRML-ready Internet browsers.",
-			"abstract": "Recently the use of three-dimensional computer models has greatly increased, in part because of the availability of fast, inexpensive graphics hardware and technologies such as VRML-ready Internet browsers. These models are often of existing objects and are typically built by hand using CAD software, an error-prone and labor-intensive process. This thesis investigates methods by which these models may be automatically acquired, processed, and utilized by using range data. An incremental modeling method is described that builds accurate solid models of objects from multiple range images. A hybrid of surface mesh and volumetric representations is used to create a “water-tight” 3-D model at each step of the modeling process, allowing models to be built from a small number of range images. The method is able to model scenes consisting of multiple, disconnected parts without imposing restrictions on their topology. The resulting models retain information that denotes each surface element as properly acquired or requiring additional sensing. An important part of the model acquisition process is the determination of the next sensor viewpoint. We introduce a planning method that computes visibility for model surfaces to determine occlusion-free sensor positions that ensure that model fidelity is improved. These sensor positions are computed in continuous space, allowing a more complete solution then planning methods that rely on spatial discretization. These two processes are combined in a system capable of acquiring models of a wide variety of shapes and scenes. Examples are shown using objects with features such as holes and disconnected parts, as well as scenes with large self-occlusions. Applications of this work include graphics, manufacturing, robot navigation and architectural site modeling. ",
+			"abstract": "Recently the use of three-dimensional computer models has greatly increased, in part because of the availability of fast, inexpensive graphics hardware and technologies such as VRML-ready Internet browsers. These models are often of existing objects and are typically built by hand using CAD software, an error-prone and labor-intensive process. This thesis investigates methods by which these models may be automatically acquired, processed, and utilized by using range data. An incremental modeling method is described that builds accurate solid models of objects from multiple range images. A hybrid of surface mesh and volumetric representations is used to create a &ldquo;water-tight&rdquo; 3-D model at each step of the modeling process, allowing models to be built from a small number of range images. The method is able to model scenes consisting of multiple, disconnected parts without imposing restrictions on their topology. The resulting models retain information that denotes each surface element as properly acquired or requiring additional sensing. An important part of the model acquisition process is the determination of the next sensor viewpoint. We introduce a planning method that computes visibility for model surfaces to determine occlusion-free sensor positions that ensure that model fidelity is improved. These sensor positions are computed in continuous space, allowing a more complete solution then planning methods that rely on spatial discretization. These two processes are combined in a system capable of acquiring models of a wide variety of shapes and scenes. Examples are shown using objects with features such as holes and disconnected parts, as well as scenes with large self-occlusions. Applications of this work include graphics, manufacturing, robot navigation and architectural site modeling. ",
 			"citation": "Michael Reed, Solid Model Acquisition from Range Imagery, Ph.D Thesis, Dept. of Computer Science, Columbia University, 1998.)",
 			"url_slug": "solid-model-acquisition-from-range-imagery",
-			"paper_url": "{{ base_url }}/files/solid-model-acquisition-from-range-imagery.pdf",
+			"paper_url": "/files/solid-model-acquisition-from-range-imagery.pdf",
 			"location": "New York, New York, USA 10027",
 			"keywords": ""
 		},
@@ -66,7 +66,7 @@
 			"abstract": "This paper describes an interactive sensor planning system, that can be used to select viewpoints subject to camera visibility, field of view and task constraints. Application areas for this method include surveillance planning, safety monitoring, architectural site design planning, and automated site modeling. Given a description, of the sensor's characteristics, the objects in the 3-D scene, and the targets to be viewed, our algorithms compute the set of admissible view points that satisfy the constraints. The system first builds topologically correct solid models of the scene from a variety of data sources. Viewing targets are then selected, and visibility volumes and field of view cones are computed and intersected to create viewing volumes where cameras can be placed. The user can interactively manipulate the scene and select multiple target features to be viewed by a camera. The user can also select candidate viewpoints within this volume to synthesize views and verify the correctness of the planning system. We present experimental results for the planning system on an actual complex city model.",
 			"citation": "Stamos, Ioannis and Peter K. Allen, Interactive Sensor Planning , Computer Vision and Pattern Recognition Conference (CVPR), June 23-25, 1998, Santa Barbara, pp. 489-495.",
 			"url_slug": "interactive-sensor-planning",
-			"paper_url": "{{ base_url }}/files/interactive-sensor-planning.pdf",
+			"paper_url": "/files/interactive-sensor-planning.pdf",
 			"location": "Santa Barbara, CA, USA",
 			"keywords": "Cameras, Layout, Sensor phenomena and characterization, Sensor systems, Urban planning, Surveillance, Safety, Computerized monitoring, Optical sensors, Computer science",
 			"project_url": "http://www.cs.hunter.cuny.edu/~ioannis/InteractiveSensorPlanning.html"
@@ -81,7 +81,7 @@
 			"abstract": "3-D models of complex environments, known as site models, are used in many different applications ranging from city planning, urban design, fire and police planning, military applications, virtual reality modeling and others. Site models are typically created by hand in a painstaking and error prone process. This paper focuses on two important problems in site modeling. The first is how to create a geometric and topologically correct 3-D solid from noisy data. The second problem is how to plan the next view to alleviate occlusions, reduce data set sizes, and provide full coverage of the scene. To acquire accurate CAD models of the scene we are using an incremental volumetric method based on set intersection that can recover multiple objects in a scene and merge models from different views of the scene. These models can serve as input to a planner that can reduce the number of views needed to fully acquire a scene. The planner can incorporate different constraints including visibility, ...",
 			"citation": "Allen, Peter, Reed, Michael, and Ioannis Stamos, View Planning for Site Modeling Proc. DARPA Image Understanding Workshop, Monterey, November 21-23, 1998.",
 			"url_slug": "view-planning-for-site-modeling",
-			"paper_url": "{{ base_url }}/files/view-planning-for-site-modeling.pdf",
+			"paper_url": "/files/view-planning-for-site-modeling.pdf",
 			"location": "Monterey, California, USA",
 			"keywords": "site modeling, view planning, site model, complex environment, many different application, military application, merge model, important problem, noisy data, multiple object, second problem, different constraint, incremental volumetric method, different view, next view, error prone process, 3-d model, virtual reality modeling, police planning, accurate cad model, full coverage, set intersection, data set size, urban design, city planning"
 		},
@@ -95,7 +95,7 @@
 			"abstract": "Image-based servoing systems are often used to track moving targets and their underlying control architecture is a regulation of the image. This regulation is a function of rigid camera-to-target geometric constraints. Satisfying such constraints requires that the robot motors have sufficient velocity bandwidths, and often these bandwidths are limited. This paper lays down the foundation for a partitioned controller. Such a controller would coordinate a camera's DOF into a synergistic move to overcome bandwidth limitations. Tracking experiments are shown on a custom designed 5-DOF gantry robot which highlight the limitations of regulator-based control, as well as show how partitioning can be used to achieve more robust control.",
 			"citation": "Oh, Paul and Peter K. Allen, Design of Partitioned Visual Feedback Controller, IEEE Int. Conf. on Robotics and Automation, May 18-20, 1998, Leuven, Belgium, pp. 1360-1365.",
 			"url_slug": "design-of-partitioned-visual-feedback-controller",
-			"paper_url": "{{ base_url }}/files/design-of-partitioned-visual-feedback-controller.pdf",
+			"paper_url": "/files/design-of-partitioned-visual-feedback-controller.pdf",
 			"location": "Leuven, Belgium",
 			"keywords": "Adaptive control, Monitoring, Robotic assembly, Target tracking, Bandwidth, Robot kinematics, Servomotors, Robot vision systems, Cameras, Control systems"
 		},
@@ -109,7 +109,7 @@
 			"abstract": "We introduce two methods for the registration of range images when a prior estimate of the transformation between views is not available and the overlap between images is relatively small. The methods are an extension to the work of Gueziec and Ayache (1994) and Turk and Levoy (1994) and consists of 2 stages. First, we find the initial estimated transformation by extracting and matching 3D space curves from different scans of the same object. If no salient features are available on the object we use fiducial marks to find the initial transformation. This allows us to always find a satisfactory and even highly accurate transformation independent of the geometry of the object. Second, we apply a modified iterative closest points algorithm (ICP) to improve the accuracy of registration. We define a weighted distance function based on surface curvature which can reduce the number of iterations and requires a less accurate initial estimate of the transformation.",
 			"citation": "Allen, Peter K. and Ruigang Yang, Registering, Integrating, and Building CAD Models from Range Data, IEEE Int. Conf. on Robotics and Automation, May 18-20, 1998, Leuven, Belgium, pp. 3115-3120.",
 			"url_slug": "registering-integrating-and-building-cad-models-from-range-data",
-			"paper_url": "{{ base_url }}/files/registering-integrating-and-building-cad-models-from-range-data.pdf",
+			"paper_url": "/files/registering-integrating-and-building-cad-models-from-range-data.pdf",
 			"location": "Leuven, Belgium",
 			"keywords": "Solid modeling, Data acquisition, Robot kinematics, Iterative closest point algorithm, Computer science, Geometry, Virtual reality, Image reconstruction, Surface reconstruction, Robotics and automation"
 		},
@@ -123,7 +123,7 @@
 			"abstract": "Most robotic hands are either sensorless or lack the ability to report accurate position and force information relating to contact. This paper describes a robotic hand system that uses a limited set of native joint position and force sensing along with custom designed tactile sensors and real-time vision modules to accurately compute finger contacts and applied forces for grasping tasks. A number of experiments are described that show how these sensors can be combined to increase the capabilities of a robotic hand for grasping and manipulation tasks. 1",
 			"citation": "Allen, P., Miller, Andrew T., Oh, P., and B. Leibowitz, Integration of Vision, Force and Tactile Sensing for Grasping Int. Journal of Intelligent Mechatronics,Vol. 4, No. 1, January 1999, pp. 129-149.",
 			"url_slug": "integration-of-vision-force-and-tactile-sensing-for-grasping",
-			"paper_url": "{{ base_url }}/files/integration-of-vision-force-and-tactile-sensing-for-grasping.pdf",
+			"paper_url": "/files/integration-of-vision-force-and-tactile-sensing-for-grasping.pdf",
 			"location": "",
 			"keywords": "robotic hand, limited set, applied force, tactile sensor, robotic hand system, accurate position, native joint position, finger contact, force information, manipulation task, force sensing, real-time vision module"
 		},
@@ -137,7 +137,7 @@
 			"abstract": "Automatically planning a camera viewpoint for tasks such as inspection in an active robot work-cell is a difficult problem. This paper discusses new methods for computing viewpoints which meet the feature detectability constraints of focus, field-of-view, visibility, and resolution. A theoretical outline of the method is presented, followed by experimental results and a discussion of future work.",
 			"citation": "Abrams, Steven , Allen, Peter K. and Tarabanis, Konstantinos, Computing Camera Viewpoints in a Robot Work-Cell International Journal of Robotics Research, Vol. 18, No. 3, pp. 267-285, March 1999.",
 			"url_slug": "computing-camera-viewpoints-in-a-robot-work-cell",
-			"paper_url": "{{ base_url }}/files/computing-camera-viewpoints-in-a-robot-work-cell.pdf",
+			"paper_url": "/files/computing-camera-viewpoints-in-a-robot-work-cell.pdf",
 			"location": "Minneapolis, MN, USA",
 			"keywords": "Robot vision systems, Cameras, Robotics and automation, Optical sensors, Intelligent robots, Robot sensing systems, Computer vision, Sensor systems, Robotic assembly, Inspection"
 		},
@@ -151,7 +151,7 @@
 			"abstract": "We present a novel approach we call partitioning where the robot's degrees-of-freedom (DOF) are categorized into two classes based on joint kinematics and dynamics to design a coupled multi-input control system. We use image data to visually servo the first class of joints that have quick response time. Position-based data is used to kinematically servo the second class of joints that have large kinematic range. The net effect is an active-vision system that synergistically tracks a diverse range of targets (without using CAD-based models) over a wide bandwidth of motion dynamics.",
 			"citation": "Oh, Paul and Peter K. Allen, Performance of a Partitioned Visual Feedback Controller, IEEE Int. Conf. on Robotics and Automation, May 10-15, 1999, Detroit, MI, pp. 275-280.",
 			"url_slug": "performance-of-a-partitioned-visual-feedback-controller",
-			"paper_url": "{{ base_url }}/files/performance-of-a-partitioned-visual-feedback-controller.pdf",
+			"paper_url": "/files/performance-of-a-partitioned-visual-feedback-controller.pdf",
 			"location": "Detroit, MI, USA",
 			"keywords": "Adaptive control, Target tracking, Robot vision systems, Robotics and automation, Cameras, Servomechanisms, Bandwidth, Vibrations, Acceleration, Kinematics"
 		},
@@ -165,7 +165,7 @@
 			"abstract": "Previous grasp quality research is mainly theoretical, and has assumed that contact types and positions are given, in order to preserve the generality of the proposed quality measures. The example results provided by these works either ignore hand geometry and kinematics entirely or involve only the simplest of grippers. We present a unique grasp analysis system that, when given a 3D object, hand, and pose for the hand, can accurately determine the types of contacts that will occur between the links of the hand and the object, and compute two measures of quality for the grasp. Using models of two articulated robotic hands, we analyze several grasps of a polyhedral model of a telephone handset, and we use a novel technique to visualize the 6D space used in these computations. In addition, we demonstrate the possibility of using this system for synthesizing high quality grasps by performing a search over a subset of possible hand configurations.",
 			"citation": "Miller, Andrew and Peter Allen Examples of 3-D Grasp Quality Computations IEEE Int. Conf. on Robotics and Automation, May 10-15, 1999, Detroit, MI., pp. 1240-1246.",
 			"url_slug": "examples-of-3-d-grasp-quality-computations",
-			"paper_url": "{{ base_url }}/files/examples-of-3-d-grasp-quality-computations.pdf",
+			"paper_url": "/files/examples-of-3-d-grasp-quality-computations.pdf",
 			"location": "Detroit, MI, USA",
 			"keywords": " Geometry, Solid modeling, Power system modeling, Kinematics, Performance evaluation, Grasping, System testing, Computer science, Position measurement, Orbital robotics "
 		},
@@ -179,7 +179,7 @@
 			"abstract": "In this article we present a method for automatically constructing a solid (in the CAD sense) model of an unknown object from range images. The model acquisition system provides facilities for range image acquisition, solid model construction and model merging: a solid representation is derived from a mesh surface that models the range data from each view, which is then merged with the model built from previous sensing operations. This modeling system has the benefit of constructing a solid model at each phase of the acquisition process, and is able to model parts that are difficult or impossible using other methods, such as extremely thin parts or those with deep through-holes. We introduce a technique that utilizes the incomplete model resulting from the merging process to plan the next sensing operation by finding a sensor viewpoint that will improve the fidelity of the model. A number of examples are given for the modeling of various objects that include planar and curved surfaces, features such as through-holes, and large self-occlusions.",
 			"citation": "Michael Reed and Peter Allen 3-D Modeling from Range Imagery: An Incremental Method with a Planning Component, Image and Vision Computing, V. 17, pp. 99-111, 1999.",
 			"url_slug": "3-d-modeling-from-range-imagery-an-incremental-method-with-a-planning-component2",
-			"paper_url": "{{ base_url }}/files/3-d-modeling-from-range-imagery-an-incremental-method-with-a-planning-component2.pdf",
+			"paper_url": "/files/3-d-modeling-from-range-imagery-an-incremental-method-with-a-planning-component2.pdf",
 			"location": "Ottawa, Canada",
 			"keywords": ""
 		},
@@ -188,12 +188,12 @@
 			"first-author": "Andrew Miller",
 			"authors": "Andrew Miller;Peter Allen",
 			"pub_date": "2000-11-01",
-			"venue": "In Proceedings ASME International Mechanical Engineering Congress & Exposition" ,
+			"venue": "In Proceedings ASME International Mechanical Engineering Congress &amp; Exposition" ,
 			"excerpt": "",
 			"abstract": "",
 			"citation": "",
 			"url_slug": "graspit-a-versatile-simulator-for-grasp-analysis",
-			"paper_url": "{{ base_url }}/files/graspit-a-versatile-simulator-for-grasp-analysis.pdf",
+			"paper_url": "/files/graspit-a-versatile-simulator-for-grasp-analysis.pdf",
 			"location": "",
 			"keywords": ""
 		},
@@ -207,7 +207,7 @@
 			"abstract": "",
 			"citation": "",
 			"url_slug": "",
-			"paper_url": "{{ base_url }}/files/.pdf",
+			"paper_url": "/files/.pdf",
 			"location": "",
 			"keywords": ""
 		},
@@ -221,7 +221,7 @@
 			"abstract": "",
 			"citation": "",
 			"url_slug": "",
-			"paper_url": "{{ base_url }}/files/.pdf",
+			"paper_url": "/files/.pdf",
 			"location": "",
 			"keywords": ""
 		},
@@ -235,7 +235,7 @@
 			"abstract": "",
 			"citation": "",
 			"url_slug": "",
-			"paper_url": "{{ base_url }}/files/.pdf",
+			"paper_url": "/files/.pdf",
 			"location": "",
 			"keywords": ""
 		},
@@ -249,7 +249,7 @@
 			"abstract": "",
 			"citation": "",
 			"url_slug": "",
-			"paper_url": "{{ base_url }}/files/.pdf",
+			"paper_url": "/files/.pdf",
 			"location": "",
 			"keywords": ""
 		},
@@ -263,7 +263,7 @@
 			"abstract": "",
 			"citation": "",
 			"url_slug": "",
-			"paper_url": "{{ base_url }}/files/.pdf",
+			"paper_url": "/files/.pdf",
 			"location": "",
 			"keywords": ""
 		},
@@ -277,7 +277,7 @@
 			"abstract": "",
 			"citation": "",
 			"url_slug": "",
-			"paper_url": "{{ base_url }}/files/.pdf",
+			"paper_url": "/files/.pdf",
 			"location": "",
 			"keywords": ""
 		},
@@ -291,7 +291,7 @@
 			"abstract": "",
 			"citation": "",
 			"url_slug": "",
-			"paper_url": "{{ base_url }}/files/.pdf",
+			"paper_url": "/files/.pdf",
 			"location": "",
 			"keywords": ""
 		},
@@ -305,7 +305,7 @@
 			"abstract": "",
 			"citation": "",
 			"url_slug": "",
-			"paper_url": "{{ base_url }}/files/.pdf",
+			"paper_url": "/files/.pdf",
 			"location": "",
 			"keywords": ""
 		},
@@ -319,7 +319,7 @@
 			"abstract": "",
 			"citation": "",
 			"url_slug": "",
-			"paper_url": "{{ base_url }}/files/.pdf",
+			"paper_url": "/files/.pdf",
 			"location": "",
 			"keywords": ""
 		},
@@ -333,7 +333,7 @@
 			"abstract": "",
 			"citation": "",
 			"url_slug": "",
-			"paper_url": "{{ base_url }}/files/.pdf",
+			"paper_url": "/files/.pdf",
 			"location": "",
 			"keywords": ""
 		},
@@ -347,7 +347,7 @@
 			"abstract": "",
 			"citation": "",
 			"url_slug": "",
-			"paper_url": "{{ base_url }}/files/.pdf",
+			"paper_url": "/files/.pdf",
 			"location": "",
 			"keywords": ""
 		},
@@ -361,7 +361,7 @@
 			"abstract": "",
 			"citation": "",
 			"url_slug": "",
-			"paper_url": "{{ base_url }}/files/.pdf",
+			"paper_url": "/files/.pdf",
 			"location": "",
 			"keywords": ""
 		},
@@ -375,7 +375,7 @@
 			"abstract": "",
 			"citation": "",
 			"url_slug": "",
-			"paper_url": "{{ base_url }}/files/.pdf",
+			"paper_url": "/files/.pdf",
 			"location": "",
 			"keywords": ""
 		},
@@ -389,7 +389,7 @@
 			"abstract": "",
 			"citation": "",
 			"url_slug": "",
-			"paper_url": "{{ base_url }}/files/.pdf",
+			"paper_url": "/files/.pdf",
 			"location": "",
 			"keywords": ""
 		},
@@ -403,7 +403,7 @@
 			"abstract": "",
 			"citation": "",
 			"url_slug": "",
-			"paper_url": "{{ base_url }}/files/.pdf",
+			"paper_url": "/files/.pdf",
 			"location": "",
 			"keywords": ""
 		},
@@ -417,7 +417,7 @@
 			"abstract": "",
 			"citation": "",
 			"url_slug": "",
-			"paper_url": "{{ base_url }}/files/.pdf",
+			"paper_url": "/files/.pdf",
 			"location": "",
 			"keywords": ""
 		},
@@ -431,7 +431,7 @@
 			"abstract": "",
 			"citation": "",
 			"url_slug": "",
-			"paper_url": "{{ base_url }}/files/.pdf",
+			"paper_url": "/files/.pdf",
 			"location": "",
 			"keywords": ""
 		}

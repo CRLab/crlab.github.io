@@ -1,5 +1,5 @@
 ---
-title: Robotic Grasping System: Helping the Severely Disabled Take Back Control
+title: Robotic Grasping System Helping the Severely Disabled Take Back Control
 date: 2014-09-01
 permalink: /posts/2014/09/robotic-grasping-system
 tags:
