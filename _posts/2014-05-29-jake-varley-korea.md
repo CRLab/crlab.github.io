@@ -2,6 +2,7 @@
 title: 'Jake Varley awarded NSF EAPSI scholarship to study in Korea'
 date: 2014-05-29
 permalink: /posts/2014/05/jake-varley-korea/
+excerpt: "Often the first attempt to grasp an object is not successful..."
 tags:
 ---
 

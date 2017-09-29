@@ -5,9 +5,67 @@ permalink: /people/
 author_profile: false
 ---
 
-{% for post in site.people %}
-<div class="row my-shuffle-container">
+<h2> Faculty </h2>
+<div class="row">
+	{% for person in site.people %}
+	{% if person.tag == "faculty" %}
+	<figure class="col-sm-4">
 
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="picture-item__tags hidden@xs">{{ person.author }}<br>{{ person.type }}</p>
+			</div>
+			<div class="panel-body square">
+				<a href="{{ person.permalink }}">
+					<div class="focal-point">
+						<div><img src="{{ person.avatar }}" alt="{{ person.bio }}"/></div>
+					</div>
+				</a>
+			</div>
+		</div>
+	</figure>
+	{% endif %}
+	{% endfor %}
 </div>
-{% include archive-single.html %}
-{% endfor %}
+
+<h2> Current Students </h2>
+<div class="row">
+	{% for person in site.people %}
+	{% if person.tag == "current-student" %}
+	<figure class="col-sm-4">
+
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="picture-item__tags hidden@xs">{{ person.author }}</p>
+			</div>
+			<div class="panel-body">
+				<a href="{{ person.permalink }}">
+					<img src="{{ person.avatar }}" alt="{{ person.bio }}" class="center-cropped"/>
+				</a>
+			</div>
+		</div>
+	</figure>
+	{% endif %}
+	{% endfor %}
+</div>
+
+<h2> Alumni </h2>
+<div class="row">
+	{% for person in site.people %}
+	{% if person.tag == "alumnus" %}
+	<figure class="col-sm-4">
+
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="picture-item__tags hidden@xs">{{ person.author }}</p>
+			</div>
+			<div class="panel-body">
+				<a href="{{ person.permalink }}">
+					<img src="{{ person.avatar }}" alt="{{ person.bio }}" class="center-cropped"/>
+				</a>
+			</div>
+		</div>
+	</figure>
+	{% endif %}
+	{% endfor %}
+</div>

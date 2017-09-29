@@ -2,6 +2,7 @@
 title: 'Three papers accepted at IROS 2014'
 date: 2014-05-17
 permalink: /posts/2014/05/three-papers-iros-2014/
+excerpt: "Authors include Jon Weisz, Austin Reiter, ..."
 tags:
 ---
 

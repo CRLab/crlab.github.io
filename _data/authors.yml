@@ -1,43 +1,309 @@
-# Authors
+# Faculty
+Peter Allen:
+  name             : "Peter Allen"
+  avatar           : "people/peterallen.jpg"
+  bio              : "Professor of Computer Science at Columbia University"
+  location         : "New York, NY"
+  employer         : "Columbia University"
+  googlescholar    :
+  email            : "allen@cs.columbia.edu"
+  uri              : "http://www.cs.columbia.edu/~allen/.index.html"
+  facebook         : 
+  github           : 
+  linkedin         : peter-allen-4449805
+  orcid            : 
+  twitter          : 
+  status           : "faculty"
 
+
+# Current students
 David Watkins:
   name             : "David J. Watkins"
-  avatar           : "profiles/profile.jpg"
+  avatar           : "people/davidwatkins.jpg"
   bio              : "Ph.D. Researcher at the Columbia University Robotics Lab"
   location         : "New York, NY"
   employer         : "Columbia University"
   googlescholar    :
   email            : "davidwatkins@cs.columbia.edu"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
+  uri              : "http://davidwa.tkins.me"
   facebook         : "Davidwme"
-  foursquare       :
   github           : "davidwatkins"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
   linkedin         : davidwatkinsj
   orcid            : "http://orcid.org/0000-0003-0786-5798"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "davidw_me"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  status           : "current-student"
 
+Jake Varley:
+  name             : "Jake Varley"
+  avatar           : "people/jakevarley.jpg"
+  bio              : "Ph.D. Researcher at the Columbia University Robotics Lab"
+  location         : "New York, NY"
+  employer         : "Columbia University"
+  googlescholar    : https://scholar.google.com/citations?user=UJcm1MoAAAAJ&hl=en
+  email            : "jvarley@gmail.com"
+  uri              : 
+  facebook         : 
+  github           : "jvarley"
+  linkedin         : jacob-varley-293b3446
+  orcid            : 
+  twitter          : 
+  status           : "current-student"
 
-Peter Allen:
-  name        : "Peter Allen"
-  uri         : "http://www.cs.columbia.edu/~allen/.index.html"
-  email       : "allen@cs.columbia.edu"
-  bio         : "Professor of Computer Science at Columbia University"
-  avatar      : "profiles/peterallen.jpg"
+Iretiayo Akinola:
+  name             : "Iretiayo Akinola"
+  avatar           : "people/iretiayoakinola.jpg"
+  bio              : "Ph.D. Researcher at the Columbia University Robotics Lab"
+  location         : "New York, NY"
+  employer         : "Columbia University"
+  googlescholar    : 
+  email            : "iretibob@gmail.com"
+  uri              : 
+  facebook         : 
+  github           : "iretiayo"
+  linkedin         : 
+  orcid            : 
+  twitter          : 
+  status           : "current-student"
+
+#Alumni
+Austin Reiter:
+  name     : "Austin Reiter"
+  avatar   : "people/austinreiter.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : "Baltimore, MD"
+  employer : "Johns Hopkins Whiting School of Engineering"
+  email    : "areiter@cs.jhu.edu"
+  uri      : "https://www.cs.jhu.edu/faculty/austin-reiter/"
+  status   : "alumnus"
+
+Hao Dang:
+  name     : "Hao Dang"
+  avatar   : "people/haodang.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : ""
+  employer : ""
+  email    : ""
+  uri      : "http://www.cs.columbia.edu/~dang"
+  status   : "alumnus"
+
+Jon Weisz:
+  name     : "Jon Weisz"
+  avatar   : "people/jonweisz.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : ""
+  employer : ""
+  email    : "jonweisz+blog@gmail.com"
+  github   : "jon-weisz"
+  uri      : "http://jonweisz.com/about/"
+  status   : "alumnus"
+
+Yinxiao Li:
+  name     : "Yinxiao Li"
+  avatar   : "people/yinxiaoli.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : ""
+  employer : ""
+  email    : ""
+  github   : "Yinxiaoli"
+  uri      : "http://www.cs.columbia.edu/~yli"
+  status   : "alumnus"
+
+Matei Ciocarlie:
+  name     : "Matei Ciocarlie"
+  avatar   : "people/mateiciocarlie.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : "New York, New York"
+  employer : "Columbia University"
+  email    : "matei.ciocarlie@columbia.edu"
+  uri      : "http://me.columbia.edu/matei-ciocarlie"
+  status   : "alumnus"
+
+Corey Goldfeder:
+  name     : "Corey Goldfeder"
+  avatar   : "people/coreygoldfeder.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : ""
+  employer : ""
+  email    : "coreyg@cs.columbia.edu"
+  uri      : "http://coreygoldfeder.com"
+  status   : "alumnus"
+
+Alejandro Troccoli:
+  name     : "Alejandro Troccoli"
+  avatar   : "people/alejandrotroccoli.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : ""
+  employer : ""
+  email    : "atroccol@cs.columbia.edu"
+  uri      : "www.cs.columbia.edu/~atroccol"
+  status   : "alumnus"
+
+Paul Blaer:
+  name     : "Paul Blaer"
+  avatar   : "people/paulblaer.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : ""
+  employer : ""
+  email    : ""
+  uri      : "http://www1.cs.columbia.edu/~pblaer"
+  status   : "alumnus"
+
+Andrew Miller:
+  name     : "Andrew Miller"
+  avatar   : "people/andrewmiller.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : "New York, New York"
+  employer : "Google"
+  email    : "andrewtm@gmail.com"
+  uri      : "http://www1.cs.columbia.edu/~amiller"
+  status   : "alumnus"
+
+Atanas Georgiev:
+  name     : "Atanas Georgiev"
+  avatar   : "people/atanasgeorgiev.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : ""
+  employer : ""
+  email    : ""
+  uri      : "http://www.cs.columbia.edu/~atanas"
+  status   : "alumnus"
+
+Ioannis Stamos:
+  name     : "Ioannis Stamos"
+  avatar   : "people/ioannisstamos.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : ""
+  employer : ""
+  email    : ""
+  uri      : "http://www.cs.hunter.cuny.edu/~ioannis"
+  status   : "alumnus"
+
+Paul Oh:
+  name     : "Paul Oh"
+  avatar   : "people/pauloh.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : ""
+  employer : ""
+  email    : "paul@coe.drexel.edu"
+  uri      : "http://www.pages.drexel.edu/~pyo22/"
+  status   : "alumnus"
+
+Steven Abrams:
+  name     : "Steven Abrams"
+  avatar   : "people/stevenabrams.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : ""
+  employer : ""
+  email    : "sabrams@us.ibm.com"
+  uri      : ""
+  status   : "alumnus"
+
+Michael Reed:
+  name     : "Michael Reed"
+  avatar   : "people/michaelreed.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : ""
+  employer : ""
+  email    : ""
+  uri      : "http://www1.cs.columbia.edu/~m-reed"
+  status   : "alumnus"
+
+Konstantinos Tarabanis:
+  name     : "Konstantinos A. Tarabanis"
+  avatar   : "people/konstantinostarabanis.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : ""
+  employer : ""
+  email    : ""
+  uri      : "http://www.uom.gr/modules.php?op=modload&name=Cv_eng&file=index&id=225&tmima=2&categorymenu=2"
+  status   : "alumnus"
+
+Ajit Singh:
+  name     : "Ajit Singh"
+  avatar   : "people/ajitsingh.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : ""
+  employer : ""
+  email    : ""
+  uri      : "http://biodesign.stanford.edu/bdn/people/15723.jsp"
+  status   : "alumnus"
+
+Brian Leibowitz:
+  name     : "Brian S. Leibowitz"
+  avatar   : "people/brianleibowitz.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : ""
+  employer : ""
+  email    : ""
+  uri      : ""
+  status   : "alumnus"
+
+Zoran Lazarevic:
+  name     : "Zoran Lazarevic (Laza)"
+  avatar   : "bio-photo.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : ""
+  employer : ""
+  email    : ""
+  uri      : "http://www.cs.columbia.edu/~laza"
+  status   : "alumnus"
+
+Ruigang Yang:
+  name     : "Ruigang Yang"
+  avatar   : "people/ruigangyang.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : ""
+  employer : ""
+  email    : ""
+  uri      : "http://www.vis.uky.edu/~ryang/"
+  status   : "alumnus"
+
+Timothy Jones:
+  name     : "Timothy Jones"
+  avatar   : "people/timothyjones.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : ""
+  employer : ""
+  email    : ""
+  uri      : "http://www.linkedin.com/in/tjoneseng"
+  status   : "alumnus"
+
+Aleksandar Timcenko:
+  name     : "Aleksandar Timcenko"
+  avatar   : "people/aleksandartimcenko.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : ""
+  employer : ""
+  email    : ""
+  uri      : "http://www.linkedin.com/pub/aleksandar-timcenko/6/29b/b63"
+  status   : "alumnus"
+
+Sanjay Aiyagari:
+  name     : "Sanjay Aiyagari"
+  avatar   : "people/sanjayaiyagari.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : ""
+  employer : ""
+  email    : ""
+  uri      : "http://www1.cs.columbia.edu/robotics/people/sanjay.html"
+  status   : "alumnus"
+
+Billibon Yoshimi:
+  name     : "Billibon H. Yoshimi"
+  avatar   : "people/billibonyoshimi.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : ""
+  employer : ""
+  email    : ""
+  uri      : "http://www.linkedin.com/pub/bill-yoshimi/7/6/ba0"
+  status   : "alumnus"
+
+Paul Michelman:
+  name     : "Paul Michelman"
+  avatar   : "people/paulmichelman.jpg"
+  bio      : "Ph.D. and Former CRLab member"
+  location : ""
+  employer : ""
+  email    : ""
+  uri      : "http://www.cs.columbia.edu/~allen/michelman.html"
+  status   : "alumnus"

@@ -3,55 +3,25 @@ import yaml
 with open("../_data/authors.yml") as fd:
 	authors = yaml.load(fd)
 
-	for author in authors:
+	for author_key in authors:
 
-		md_filename = str(item["pub_date"]) + "-" + item["url_slug"] + ".md"
-		html_filename = str(item["pub_date"]) + "-" + item["url_slug"]
-		year = item["pub_date"][:4]
+		author_info = authors[author_key]
+
+		md_filename = author_key.replace(" ", "").lower()
+		md_filepath = md_filename + ".md"
 
 		## YAML variables
-
-		md = "---\ntitle: \""   + item["title"] + '"\n'
-
-		md += """collection: publications"""
-
-		md += """\npermalink: /publication/""" + html_filename
-
-		if len(str(item["excerpt"])) > 5:
-		    md += "\nexcerpt: '" + html_escape(item["excerpt"]) + "'"
-
-		md += "\ndate: " + str(item["pub_date"]) 
-
-		md += "\nvenue: '" + html_escape(item["venue"]) + "'"
-
-		if len(str(item["paper_url"])) > 5:
-		    md += "\npaperurl: '" + item["paper_url"] + "'"
-
-		md += "\ncitation: '" + html_escape(item["citation"]) + "'"
-
-		md += "\nauthor: '" + html_escape(item["first-author"]) + "'"
-
-		md += "\nauthor_profile: true"
-
-		md += "\nauthors: '" + html_escape(item["authors"]) + "'"
-
-		md += "\nlocation: '" + html_escape(item["location"]) + "'"
-
-		md += "\nkeywords: '" + html_escape(item["keywords"]) + "'"
-
-		md += "\n---"
-
-		## Markdown description for individual page
-		    
-		if len(str(item["abstract"])) > 5:
-		    md += "\n" + html_escape(item["abstract"]) + "\n"
-		    
-		md += "\nRecommended citation: " + item["citation"]
-
-		if len(str(item["paper_url"])) > 5:
-		    md += "\n\n<a href='" + item["paper_url"] + "'>Download paper here</a>\n" 
-
-		md_filename = os.path.basename(md_filename)
+		md = ""
+		md += "---\n"
+		md += "layout: single\n"
+		md += "collection: people\n"
+		md += "title: {}\n".format(author_info["name"])
+		md += "author: {}\n".format(author_key)
+		md += "author_profile: true\n"
+		md += "permalink: /people/{}\n".format(md_filename)
+		md += "avatar: {}{}\n".format("/images/", author_info["avatar"])
+		md += "tag: {}\n".format(author_info["status"])
+		md += "---\n\n"
 		   
-		with open("../_publications/" + md_filename, 'w') as f:
+		with open("../_people/" + md_filepath, 'w') as f:
 		    f.write(md)
