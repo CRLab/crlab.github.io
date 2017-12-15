@@ -12,6 +12,9 @@ main:
         
   - title: "News"
     url: /year-archive/
+    
+  - title: "Youtube"
+    url: /youtube-feed/
 
   - title: "People"
     url: /people/
